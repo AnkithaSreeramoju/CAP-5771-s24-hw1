@@ -1,19 +1,19 @@
 def question2_1():
-    answer = ['Discrete', 'Qualitative', 'Nominal']
+    answer=['discrete','quantitative','ratio']
     return answer
 
 def question2_2():
-    answer = ['Discrete', 'Quantitative', 'Ratio']
+    answer=['continuous','quantitative','ratio']
     return answer
 
 def question2_3():
-    answer = ['Continous', 'Quantitative', 'Ratio']
+    answer=['continuous','quantitative','ratio']
     return answer 
 
 def question2_4():
-    answer = ['Continous', 'Quantitative', 'Interval']
+    answer=['discrete','qualitative','ordinal']
     return answer
 
 def question2_5():
-    answer = ['Discrete', 'Qualitative', 'Nominal']
+    answer=['discrete','qualitative','nominal']
     return answer
