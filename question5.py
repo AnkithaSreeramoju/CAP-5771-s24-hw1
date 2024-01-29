@@ -2,16 +2,33 @@
 def question5_1():
     """
     answer = {
-            'bin1': [UserID1, UserID2, UserID3, UserID4, UserID5]
-            'bin2': [UserID6, UserID7, UserID8],
-            'bin3': [f1,...]
+            'bin1': [1, 2]
+            'bin2': [3, 4, 5, 6]
+            'bin3': [7,8,9]
     }
     where di, ei, fi are integers. 
     """
     return answer
 
 def question5_2():
+    """
+    answer = {
+            'bin1': [1,2,3]
+            'bin2': [4,5,6]
+            'bin3': [7,8,9]
+    }
+    where di, ei, fi are integers. 
+    """
     return answer
 
 def question5_3():
+    """
+    answer = {
+            'bin1': [1,5,6]
+            'bin2': [2,3,4]          
+            'bin3': [7,8,9]
+            
+    }
+    where di, ei, fi are integers. 
+    """
     return answer 
