@@ -1,39 +1,39 @@
 def question10_1():
-    answer=True #a
+    answer = False
     return answer
 
 def question10_2():
-    answer=True #b
+    answer = True
     return answer
 
 def question10_3():
-    answer=True #c #check out this
+    answer = False
     return answer
 
 def question10_4():
-    answer=False #d
+    answer = True
     return answer
 
 def question10_5():
-    answer=True #e
+    answer = False
     return answer
 
 def question10_6():
-    answer=False  # check out this
-    return answer #f
+    answer = False
+    return answer
 
 def question10_7():
-    answer=True
-    return answer #g
+    answer = False
+    return answer
 
 def question10_8():
-    answer=True
-    return answer   #h
+    answer = False
+    return answer
 
 def question10_9():
-    answer=False  # check out this
-    return answer   #i
+    answer = False
+    return answer
 
 def question10_10():
-    answer=False
-    return answer  #j
+    answer = False
+    return answer
