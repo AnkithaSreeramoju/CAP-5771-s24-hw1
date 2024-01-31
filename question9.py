@@ -1,5 +1,5 @@
 def question9_1():
-    answer = 'SMC'
+    answer = 'Jaccard'
     return answer
 
 def question9_2():
@@ -11,7 +11,7 @@ def question9_3():
     return answer 
 
 def question9_4():
-    answer = 'Cosine Similarity'
+    answer = 'Euclidean'
     return answer 
 
 def question9_5():
