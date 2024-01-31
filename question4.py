@@ -3,7 +3,7 @@ def question4_1():
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Oridinal']
+    answer = [ 'Ordinal','ratio']
     return answer
 
 def question4_3():
@@ -27,5 +27,5 @@ def question4_7():
     return answer
 
 def question4_8():
-    answer = ['Ratio', 'Interval']
+    answer = ['Ratio', 'ratio']
     return answer
