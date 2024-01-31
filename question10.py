@@ -1,5 +1,5 @@
-def question10_1(): 
-    answer = True
+def question10_1():
+    answer = False
     return answer
 
 def question10_2():
@@ -11,7 +11,7 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer = False
+    answer = True
     return answer
 
 def question10_5():
@@ -23,7 +23,7 @@ def question10_6():
     return answer
 
 def question10_7():
-    answer = True
+    answer = False
     return answer
 
 def question10_8():
